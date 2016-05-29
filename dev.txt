@@ -1,0 +1,1127 @@
+loris O
+candle B-NP
+sampler O
+
+buying B-NP
+land I-NP
+and O
+arizona B-NP
+
+hip O
+gry O
+pl O
+
+email B-NP
+
+fundraisers B-NP
+ramseur B-NP
+
+sergio O
+cardinali O
+
+tham B-NP
+tu I-NP
+lung I-NP
+danh I-NP
+conan I-NP
+
+weather B-NP
+truckee B-NP
+tahoe I-NP
+
+girl B-NP
+scout I-NP
+cookie I-NP
+sales B-NP
+dates B-NP
+
+lyme B-NP
+disease I-NP
+in O
+georgia B-NP
+
+adult B-NP
+yahoo B-NP
+groups I-NP
+
+pine B-NP
+mountain I-NP
+state I-NP
+park I-NP
+& I-NP
+lodge I-NP
+
+treatment B-NP
+of O
+dog B-NP
+arthritis I-NP
+
+andrew O
+alston B-NP
+fulham O
+news B-NP
+
+buffalos B-NP
+jokes I-NP
+
+cost B-NP
+pabx B-NP
+
+badminton B-NP
+courts O
+los B-NP
+angeles I-NP
+
+kathy O
+alfred O
+attorney B-NP
+at I-NP
+law I-NP
+
+anchorage B-NP
+and O
+hotel B-NP
+
+lynn B-NP
+cook I-NP
+longview B-NP
+ron O
+shamburger O
+
+homemade B-NP
+movie B-NP
+props I-NP
+
+belle O
+meade O
+fox B-NP
+hounds I-NP
+
+kshatriya B-NP
+cast B-NP
+of O
+south B-NP
+of I-NP
+india I-NP
+
+purebred O
+shih B-NP
+tzu I-NP
+in O
+tucson B-NP
+
+viridian B-NP
+room B-NP
+hints O
+
+san O
+gennaro O
+festival B-NP
+
+baby B-NP
+owens O
+
+newtek O
+lightwave B-NP
+3d I-NP
+
+printers B-NP
+and O
+old O
+and O
+imac B-NP
+
+tv B-NP
+transmitter I-NP
+1000 O
+ft B-NP
+
+pontoon B-NP
+servicing O
+fort B-NP
+walton I-NP
+
+dresses B-NP
+usa B-NP
+
+striata B-NP
+
+pink B-NP
+sapphire B-NP
+pendant B-NP
+
+art B-NP
+foam I-NP
+board I-NP
+wholesale B-NP
+stores B-NP
+in O
+arizona B-NP
+
+peterborough B-NP
+petes I-NP
+minor B-NP
+hockey I-NP
+
+whats O
+up O
+gangsta B-NP
+
+volcanoes O
+
+olivetti B-NP
+and O
+dsm O
+2814 O
+
+what O
+is O
+a O
+tube B-NP
+pans I-NP
+
+price B-NP
+guide O
+antiques B-NP
+cameras B-NP
+
+michelob O
+ultra O
+race B-NP
+team B-NP
+
+washington B-NP
+alternative B-NP
+school I-NP
+
+scio O
+wholesale B-NP
+
+sarnia B-NP
+real B-NP
+estate I-NP
+board B-NP
+
+profile O
+alnus O
+
+florida B-NP
+state B-NP
+map B-NP
+of O
+all O
+its O
+rivers B-NP
+
+charlotte O
+panthers B-NP
+maddox O
+
+anthony B-NP
+fiore B-NP
+construction B-NP
+
+hann O
+tutor O
+trust O
+nj B-NP
+
+that B-NP
+'s I-NP
+so I-NP
+raven I-NP
+lyrics I-NP
+theme I-NP
+song I-NP
+
+lying B-NP
+beach B-NP
+girl B-NP
+
+university B-NP
+of I-NP
+santo I-NP
+tomas I-NP
+espana B-NP
+manila B-NP
+
+dragon O
+man B-NP
+port B-NP
+and O
+polish O
+
+malcolm O
+morehead O
+
+recipes B-NP
+for O
+cheddar B-NP
+broc B-NP
+alli I-NP
+
+pickled B-NP
+beets B-NP
+recipe B-NP
+
+msn B-NP
+email B-NP
+account I-NP
+setting O
+pop B-NP
+
+r O
+tristan O
+
+australian B-NP
+gold B-NP
+lotion B-NP
+
+sub O
+sat B-NP
+systems I-NP
+
+corrugated B-NP
+stitched I-NP
+
+jade O
+harris O
+
+97 B-NP
+bloomington B-NP
+radio B-NP
+station I-NP
+
+tumba O
+de O
+jesus B-NP
+
+narcan O
+
+lyrics B-NP
+all O
+the O
+hoes O
+get O
+a O
+little O
+bit O
+lower O
+
+chevy B-NP
+1955 I-NP
+wagon I-NP
+parts O
+
+good B-NP
+girls I-NP
+gone I-NP
+bad I-NP
+melissa O
+
+governo B-NP
+civil I-NP
+de O
+castelo B-NP
+branco I-NP
+
+ny B-NP
+airport B-NP
+transportation B-NP
+service B-NP
+
+doty O
+properties O
+
+sharing B-NP
+easy O
+
+celeron B-NP
+m O
+pinout B-NP
+
+indiana O
+scout O
+guitar B-NP
+
+mardi B-NP
+gras I-NP
+street B-NP
+vendor I-NP
+photo B-NP
+
+dominican B-NP
+girls I-NP
+
+ryan O
+ballard O
+eau B-NP
+gallie I-NP
+high I-NP
+school I-NP
+
+spas B-NP
+and O
+decking B-NP
+
+wife B-NP
+loves O
+to O
+look O
+at O
+men B-NP
+
+phoenix B-NP
+arizona I-NP
+police I-NP
+department I-NP
+
+russell O
+mellon O
+
+cincinnati B-NP
+aapc O
+
+albert B-NP
+einstein O
+hospital I-NP
+
+bucket O
+truck O
+nh B-NP
+
+eastern O
+style O
+pizza B-NP
+chicago I-NP
+
+travel B-NP
+and O
+infant O
+
+leave O
+dusa O
+
+brisbane B-NP
+discount B-NP
+lights B-NP
+taps B-NP
+
+tannenberg O
+
+brenner O
+party B-NP
+supplies O
+saugus B-NP
+ma I-NP
+
+arcadian O
+springs O
+andersonville B-NP
+
+download B-NP
+
+rid O
+ceu O
+material O
+
+gt O
+sportswear O
+
+world B-NP
+water I-NP
+monitoring I-NP
+day I-NP
+world O
+water O
+monitoring O
+day O
+
+reverse B-NP
+telephone I-NP
+information I-NP
+n I-NP
+
+
+old B-NP
+navy I-NP
+dresses B-NP
+
+deck O
+components O
+
+les B-NP
+miserables I-NP
+theater B-NP
+notes O
+
+kubota B-NP
+2200 O
+tractor B-NP
+
+magnolia B-NP
+springs I-NP
+baptist B-NP
+academy B-NP
+
+city B-NP
+of O
+holyoke B-NP
+ma B-NP
+real B-NP
+estate I-NP
+for O
+sale B-NP
+
+cream B-NP
+tablature B-NP
+
+union O
+nieuw O
+
+joe O
+harmsen O
+
+phylum B-NP
+name B-NP
+of O
+tea B-NP
+
+game B-NP
+boy I-NP
+color I-NP
+cheats B-NP
+
+west B-NP
+virginia I-NP
+real B-NP
+estate I-NP
+clarksburg B-NP
+
+date B-NP
+and O
+season B-NP
+for O
+soil B-NP
+and I-NP
+leaf I-NP
+sampling I-NP
+of O
+tomato B-NP
+in O
+south B-NP
+africa I-NP
+
+lee O
+roy O
+beach B-NP
+
+marina O
+veterinary B-NP
+clinic I-NP
+
+fast B-NP
+eddie I-NP
+cozumel B-NP
+
+augustana B-NP
+iowa I-NP
+
+bush B-NP
+and O
+social B-NP
+security I-NP
+
+appraisal O
+data B-NP
+maps I-NP
+
+blackrock B-NP
+and O
+blackstone B-NP
+
+north B-NP
+20 I-NP
+carolina I-NP
+20 O
+in O
+20 O
+aol B-NP
+msn O
+earthlink B-NP
+netscape B-NP
+sym O
+pat O
+
+what O
+is O
+ecc B-NP
+
+west B-NP
+seattle I-NP
+feral O
+cats B-NP
+
+advance O
+beren O
+
+la O
+act B-NP
+480 O
+
+led B-NP
+zeppelin I-NP
+song B-NP
+thank I-NP
+you I-NP
+album I-NP
+
+industries B-NP
+
+brittany O
+crockett B-NP
+
+dmv B-NP
+'s I-NP
+in I-NP
+california I-NP
+
+chat B-NP
+room I-NP
+people B-NP
+dallas B-NP
+
+salt B-NP
+lake I-NP
+surgery B-NP
+center O
+directions B-NP
+
+dental B-NP
+plans I-NP
+network B-NP
+
+fabric B-NP
+heat B-NP
+transfers O
+
+poolesville B-NP
+middle B-NP
+school I-NP
+
+national O
+sports O
+grill O
+paul O
+
+missoulian O
+
+roseville B-NP
+fsc B-NP
+
+performance O
+headers B-NP
+91 O
+nissan O
+sentra O
+ser O
+
+cabela B-NP
+'s I-NP
+kansas B-NP
+
+ar B-NP
+sales B-NP
+tax I-NP
+compute B-NP
+
+constantine B-NP
+the I-NP
+movie I-NP
+
+blind B-NP
+date I-NP
+avi B-NP
+
+funny B-NP
+gator B-NP
+cartoon B-NP
+pictures B-NP
+
+aa B-NP
+battery I-NP
+bulk O
+
+love B-NP
+gets I-NP
+me I-NP
+everytime I-NP
+my O
+heart O
+changed O
+my O
+mind B-NP
+lyrics B-NP
+
+majestic O
+lowriders B-NP
+
+longman O
+jobs B-NP
+
+rachel O
+sims O
+baptist B-NP
+mission I-NP
+homepage B-NP
+
+repair B-NP
+manual B-NP
+for O
+1993 O
+
+
+condos B-NP
+florida B-NP
+
+mnp O
+" O
+microcom B-NP
+network I-NP
+protocol I-NP
+
+victoria O
+svelte O
+diet O
+
+backup O
+copy B-NP
+of O
+games B-NP
+
+recycled B-NP
+content B-NP
+promos B-NP
+
+nikon B-NP
+coolpix I-NP
+2200 O
+hassle B-NP
+
+shoprite O
+pennsylvania B-NP
+
+castaway B-NP
+cook B-NP
+islands I-NP
+
+delaware B-NP
+pet B-NP
+shops I-NP
+
+price B-NP
+of O
+the O
+cochlear B-NP
+implant I-NP
+
+botanical B-NP
+illustrated I-NP
+poetry B-NP
+book B-NP
+
+avanti O
+washing B-NP
+machine I-NP
+
+football B-NP
+history I-NP
+super B-NP
+bowl I-NP
+rosters B-NP
+
+corolla B-NP
+north I-NP
+carolina I-NP
+beach B-NP
+homes I-NP
+
+harlem B-NP
+sample O
+
+by O
+or O
+the O
+or O
+power B-NP
+or O
+of O
+or O
+his O
+or O
+name B-NP
+
+quiet O
+heart O
+lisa B-NP
+lynne I-NP
+franco O
+cd B-NP
+
+what O
+song B-NP
+won O
+best B-NP
+song I-NP
+at I-NP
+academy I-NP
+awards I-NP
+
+status B-NP
+quo I-NP
+glasgow B-NP
+clyde B-NP
+auditorium I-NP
+
+unemployed B-NP
+disabled B-NP
+young B-NP
+adult I-NP
+seeks O
+employment B-NP
+
+belton B-NP
+texas I-NP
+and O
+mhmr O
+
+lab B-NP
+club I-NP
+
+modular B-NP
+homes I-NP
+clifton B-NP
+park I-NP
+
+michael B-NP
+schachner I-NP
+
+meal O
+makeover B-NP
+moms B-NP
+
+
+baylor B-NP
+alumni B-NP
+
+little B-NP
+ville I-NP
+ny B-NP
+crystal B-NP
+chandelier B-NP
+
+filipino B-NP
+language I-NP
+translator B-NP
+
+restaurants B-NP
+in O
+villa B-NP
+rica I-NP
+
+planet O
+travel B-NP
+
+regis B-NP
+n O
+kelly B-NP
+
+foursquare B-NP
+church I-NP
+cleveland B-NP
+tenn I-NP
+
+oil B-NP
+& I-NP
+gas I-NP
+wells I-NP
+
+saint B-NP
+josephs I-NP
+college I-NP
+in I-NP
+maine I-NP
+
+riley O
+greer O
+saigon B-NP
+
+better O
+skin B-NP
+diet B-NP
+
+touch B-NP
+weekly I-NP
+
+picture B-NP
+and O
+information B-NP
+about O
+a O
+french O
+missionary B-NP
+and O
+his O
+work O
+
+osterholm B-NP
+dangerous B-NP
+flu B-NP
+
+blood B-NP
+donor I-NP
+information O
+
+stem B-NP
+cell I-NP
+research B-NP
+myths B-NP
+
+kirkman O
+supplements B-NP
+
+bartlesville B-NP
+ok B-NP
+remax O
+realtors B-NP
+
+neway O
+valve B-NP
+seat I-NP
+cutters B-NP
+
+bernard O
+
+new O
+pontiac B-NP
+parts O
+
+kiddie O
+kampus O
+marietta B-NP
+
+science B-NP
+project I-NP
+on O
+carbohydrates B-NP
+for O
+six B-NP
+graders I-NP
+
+maori O
+tribe B-NP
+photos B-NP
+
+afosi O
+wanted B-NP
+
+rio B-NP
+de I-NP
+janeiro I-NP
+child B-NP
+
+first B-NP
+central I-NP
+national I-NP
+bank I-NP
+st B-NP
+paris I-NP
+ohio I-NP
+
+newport B-NP
+pa I-NP
+
+online B-NP
+and O
+expert B-NP
+and O
+panels B-NP
+
+bigsby B-NP
+on O
+les B-NP
+paul I-NP
+
+electricity B-NP
+using O
+fruit B-NP
+
+pompe O
+roy O
+
+poseidon O
+weather B-NP
+
+find O
+family B-NP
+tree I-NP
+
+foto O
+tgp B-NP
+
+pics B-NP
+of O
+browning B-NP
+guns I-NP
+
+angelina O
+
+disney B-NP
+travel I-NP
+deals O
+2005 O
+
+music B-NP
+player I-NP
+download B-NP
+
+red B-NP
+stick I-NP
+ramblers I-NP
+
+
+landscape B-NP
+lighting I-NP
+
+letter O
+for O
+pastor B-NP
+appreciation O
+
+til B-NP
+schweiger O
+
+chamber B-NP
+of I-NP
+commerce I-NP
+key B-NP
+west I-NP
+fl I-NP
+
+product B-NP
+development I-NP
+engineering I-NP
+
+aluminum B-NP
+and O
+copper B-NP
+connection O
+
+waterproof B-NP
+and O
+containers B-NP
+
+arabic B-NP
+keyboard O
+
+seventh O
+settlement O
+
+polyu B-NP
+roth I-NP
+and I-NP
+bushings B-NP
+
+playhouse B-NP
+balcony B-NP
+theatre B-NP
+
+bankier O
+pl O
+
+shopping B-NP
+impounded B-NP
+auto I-NP
+
+pokemon O
+drawings B-NP
+
+multicultural B-NP
+products I-NP
+affiliate B-NP
+program I-NP
+
+lupa O
+
+grand B-NP
+forks I-NP
+nd I-NP
+apartments B-NP
+
+los B-NP
+angeles I-NP
+oversized B-NP
+towing B-NP
+
+new B-NP
+york I-NP
+city I-NP
+library I-NP
+online B-NP
+
+dreams B-NP
+and B-NP
+numbers B-NP
+book B-NP
+
+asus B-NP
+forum B-NP
+
+broadway B-NP
+bismarck O
+
+thanks B-NP
+ma'am B-NP
+
+president B-NP
+1974 I-NP
+
+pauls B-NP
+valley I-NP
+public B-NP
+school I-NP
+
+drivers O
+
+noticias B-NP
+wapa B-NP
+
+contest B-NP
+newsletter B-NP
+
+nj B-NP
+dept I-NP
+community I-NP
+affairs I-NP
+
+nypl O
+in O
+dynamite B-NP
+
+vodka B-NP
+sauce I-NP
+receive B-NP
+
+second B-NP
+baptist B-NP
+church I-NP
+greenville B-NP
+kentucky I-NP
+
+movie B-NP
+summaries B-NP
+and O
+the O
+last O
+wave O
+
